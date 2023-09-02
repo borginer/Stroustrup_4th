@@ -40,7 +40,6 @@ int main(){
         numbers.push_back(num);
     }
     inputFile.close();
-
     cout << "numbers before sorting:" << endl;
     printVector(numbers);
 
@@ -48,4 +47,9 @@ int main(){
 
     cout << endl << "numbers after sorting:" << endl;
     printVector(numbers);
+
+    strcpy()
 }
+
+
+
